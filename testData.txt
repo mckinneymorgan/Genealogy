@@ -1,0 +1,7 @@
+Person 1 Parent 0 Marriage 1
+Person 2 Parent 0 Marriage 1
+Person 3 Parent 1 Marriage 0
+Person 4 Parent 1 Marriage 0
+Family 1 Husband 1 Wife 2 Child 3 Child 4
+Verify
+Relate 1 4

@@ -1,0 +1,185 @@
+Person 1 has parents 2 and is married in family 1.
+Person 4 has parents 5 and is married in family 1.
+Family 1 has husband 1, wife 4, and children 7 8.
+Person 2 has parents 3 and is married in family 2.
+Person 3 has parents 4 and is married in family 2.
+Family 2 has husband 2, wife 3, and children 13 14 1 15.
+Family 3 has husband 9, wife 10, and children 2 16.
+Family 4 has husband 11, wife 12, and children 3 17.
+Person 7 has parents 1 and is married in family 0.
+Person 8 has parents 1 and is married in family 0.
+Person 1 points to parent family 5 but there is no back-pointer.
+Person 4 points to marriage family 2 but there is no back-pointer.
+Person 5 points to marriage family 2 but there is no back-pointer.
+Person 13 has parents 2 and is married in family 6.
+Person 14 has parents 2 and is married in family 0.
+Family 5 has husband 5, wife 6, and children 4 19 20.
+Person 19 has parents 5 and is married in family 7.
+Person 20 has parents 5 and is married in family 8.
+Person 21 has parents 7 and is married in family 0.
+Person 22 has parents 7 and is married in family 0.
+Person 16 has parents 3 and is married in family 9.
+Person 17 has parents 4 and is married in family 10.
+Person 5 has parents 11 and is married in family 5.
+Person 6 has parents 12 and is married in family 5.
+Person 9 has parents 13 and is married in family 3.
+Family 6 has husband 13, wife 18, and children.
+Person 10 has parents 14 and is married in family 3.
+Person 11 has parents 15 and is married in family 4.
+Person 12 has parents 16 and is married in family 4.
+Person 18 has parents 0 and is married in family 6.
+Person 25 has parents 0 and is married in family 8.
+Person 26 has parents 0 and is married in family 9.
+Person 27 has parents 0 and is married in family 10.
+Person 23 has parents 7 and is married in family 0.
+Person 24 has parents 0 and is married in family 7.
+Family 7 has husband 19, wife 24, and children 21 22 23.
+Family 8 has husband 25, wife 20, and children 28.
+Family 9 has husband 16, wife 26, and children 30 31.
+Family 10 has husband 27, wife 17, and children 33 32.
+Person 28 has parents 8 and is married in family 0.
+Person 31 has parents 9 and is married in family 0.
+Person 32 has parents 10 and is married in family 0.
+Person 33 has parents 10 and is married in family 71.
+Person 29 has parents 0 and is married in family 17.
+Person 34 has parents 17 and is married in family 0.
+Person 35 has parents 17 and is married in family 0.
+Person 36 has parents 17 and is married in family 0.
+Person 37 has parents 0 and is married in family 0.
+Person 39 has parents 19 and is married in family 14.
+Person 40 has parents 20 and is married in family 14.
+Person 41 has parents 21 and is married in family 0.
+Person 42 has parents 14 and is married in family 21.
+Family 14 has husband 40, wife 39, and children 10 42.
+Person 43 has parents 0 and is married in family 21.
+Person 44 has parents 21 and is married in family 22.
+Person 45 has parents 22 and is married in family 23.
+Person 46 has parents 0 and is married in family 23.
+Person 47 has parents 23 and is married in family 0.
+Family 23 has husband 46, wife 45, and children 47.
+Person 48 has parents 22 and is married in family 0.
+Person 49 has parents 22 and is married in family 24.
+Person 50 has parents 0 and is married in family 24.
+Family 24 has husband 50, wife 49, and children.
+Family 22 has husband 44, wife 51, and children 45 48 49.
+Person 51 has parents 0 and is married in family 22.
+Family 21 has husband 43, wife 42, and children 44 41.
+Person 52 has parents 20 and is married in family 0.
+Person 53 has parents 20 and is married in family 0.
+Family 20 has husband 54, wife 0, and children 40 52 53.
+Person 54 has parents 0 and is married in family 20.
+Person 55 has parents 19 and is married in family 26.
+Person 56 has parents 0 and is married in family 26.
+Person 57 has parents 0 and is married in family 27.
+Family 27 has husband 57, wife 55, and children.
+Person 58 has parents 26 and is married in family 28.
+Person 59 has parents 0 and is married in family 0.
+Person 60 has parents 28 and is married in family 29.
+Person 61 has parents 0 and is married in family 29.
+Person 62 has parents 29 and is married in family 0.
+Family 29 has husband 61, wife 60, and children 62.
+Person 63 has parents 28 and is married in family 30.
+Person 64 has parents 0 and is married in family 30.
+Person 65 has parents 30 and is married in family 0.
+Family 30 has husband 63, wife 64, and children 65.
+Person 66 has parents 28 and is married in family 31.
+Person 67 has parents 0 and is married in family 31.
+Person 68 has parents 31 and is married in family 0.
+Person 69 has parents 31 and is married in family 0.
+Family 31 has husband 67, wife 66, and children 69 68.
+Person 70 has parents 28 and is married in family 32.
+Person 71 has parents 0 and is married in family 32.
+Person 72 has parents 32 and is married in family 0.
+Person 73 has parents 32 and is married in family 0.
+Family 32 has husband 70, wife 71, and children 72 73.
+Family 28 has husband 59, wife 58, and children 60 63 66 70.
+Person 74 has parents 26 and is married in family 33.
+Person 75 has parents 0 and is married in family 33.
+Person 76 has parents 33 and is married in family 0.
+Family 33 has husband 75, wife 74, and children 76.
+Person 78 has parents 34 and is married in family 35.
+Person 79 has parents 0 and is married in family 35.
+Person 80 has parents 35 and is married in family 0.
+Family 35 has husband 78, wife 79, and children 80.
+Family 36 has husband 78, wife 0, and children.
+Family 34 has husband 0, wife 77, and children 78.
+Person 81 has parents 26 and is married in family 0.
+Family 26 has husband 56, wife 55, and children 58 74 77 81.
+Person 82 has parents 19 and is married in family 37.
+Person 83 has parents 0 and is married in family 37.
+Person 84 has parents 37 and is married in family 38.
+Person 85 has parents 0 and is married in family 38.
+Person 87 has parents 38 and is married in family 0.
+Person 88 has parents 38 and is married in family 40.
+Person 89 has parents 0 and is married in family 40.
+Person 90 has parents 40 and is married in family 41.
+Person 91 has parents 0 and is married in family 41.
+Person 92 has parents 41 and is married in family 0.
+Family 41 has husband 91, wife 90, and children 92.
+Person 93 has parents 40 and is married in family 0.
+Person 94 has parents 40 and is married in family 0.
+Family 40 has husband 88, wife 89, and children 90 94 93.
+Person 95 has parents 38 and is married in family 42.
+Family 43 has husband 0, wife 0, and children.
+Family 42 has husband 95, wife 0, and children.
+Family 44 has husband 0, wife 0, and children.
+Family 45 has husband 0, wife 0, and children.
+Family 46 has husband 0, wife 0, and children.
+Family 47 has husband 0, wife 0, and children.
+Family 48 has husband 0, wife 0, and children.
+Family 49 has husband 0, wife 0, and children.
+Family 50 has husband 0, wife 0, and children.
+Family 38 has husband 84, wife 85, and children 88 87 95.
+Family 52 has husband 0, wife 0, and children.
+Family 51 has husband 0, wife 0, and children.
+Family 53 has husband 0, wife 0, and children.
+Family 54 has husband 0, wife 0, and children.
+Family 56 has husband 0, wife 0, and children.
+Family 57 has husband 0, wife 0, and children.
+Family 58 has husband 0, wife 0, and children.
+Family 55 has husband 0, wife 0, and children.
+Family 61 has husband 0, wife 0, and children.
+Family 59 has husband 0, wife 0, and children.
+Family 60 has husband 0, wife 0, and children.
+Family 63 has husband 0, wife 0, and children.
+Family 64 has husband 0, wife 0, and children.
+Family 65 has husband 0, wife 0, and children.
+Family 66 has husband 0, wife 0, and children.
+Family 67 has husband 0, wife 0, and children.
+Family 62 has husband 0, wife 0, and children.
+Family 69 has husband 0, wife 0, and children.
+Family 68 has husband 0, wife 0, and children.
+Family 70 has husband 0, wife 0, and children.
+Family 37 has husband 83, wife 82, and children 84.
+Family 19 has husband 0, wife 0, and children 82 55 39.
+Family 71 has husband 33, wife 0, and children.
+Family 72 has husband 0, wife 0, and children.
+Family 75 has husband 0, wife 0, and children.
+Family 76 has husband 0, wife 0, and children.
+Family 73 has husband 0, wife 0, and children.
+Family 79 has husband 0, wife 0, and children.
+Family 80 has husband 0, wife 0, and children.
+Family 81 has husband 0, wife 0, and children.
+Family 77 has husband 0, wife 0, and children.
+Family 83 has husband 0, wife 0, and children.
+Family 78 has husband 0, wife 0, and children.
+Family 84 has husband 0, wife 0, and children.
+Family 85 has husband 0, wife 0, and children.
+Family 82 has husband 0, wife 0, and children.
+Family 74 has husband 0, wife 0, and children.
+Family 86 has husband 0, wife 0, and children.
+Family 91 has husband 0, wife 0, and children.
+Family 90 has husband 0, wife 0, and children.
+Family 89 has husband 0, wife 0, and children.
+Family 92 has husband 0, wife 0, and children.
+Family 95 has husband 0, wife 0, and children.
+Family 94 has husband 0, wife 0, and children.
+Family 93 has husband 0, wife 0, and children.
+Family 87 has husband 0, wife 0, and children.
+Family 88 has husband 0, wife 0, and children.
+Family 13 has husband 0, wife 0, and children 9.
+Family 17 has husband 30, wife 29, and children 34 35 36.
+Family 18 has husband 0, wife 31, and children 38.
+Person 38 has parents 18 and is married in family 0.
+Family 15 has husband 0, wife 0, and children 11.
+Family 16 has husband 0, wife 0, and children 12.

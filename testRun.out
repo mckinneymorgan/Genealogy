@@ -1,0 +1,7 @@
+Person 1 has parents 0 and is married in family 1.
+Person 2 has parents 0 and is married in family 1.
+Person 3 has parents 1 and is married in family 0.
+Person 4 has parents 1 and is married in family 0.
+Family 1 has husband 1, wife 2, and children 3 4.
+The data is consistent.
+1 
