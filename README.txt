@@ -1,3 +1,4 @@
+README for Genealogy
 Original author: Morgan McKinney 4/2020
 
 genealogy.cpp: Builds a family tree using user commands.
