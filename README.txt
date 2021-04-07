@@ -22,7 +22,8 @@ testRun.out: Holds output of genealogy program. May invoke using 'cat'
 in the command prompt. Output based on student created data.
 Expected input: cat testRun.out
 
-Makefile: Intended to easily compile and run student program. May invoke a
+Makefile: Initial code provided by Dr. Finkel, with minor modifications. 
+Intended to easily compile and run student program. May invoke a
 variety of commands using the 'make' prefix.
 Expected input (example): make run
 Modification of run based on desired input text file and output destination
